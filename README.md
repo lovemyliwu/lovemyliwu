@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔 I’m looking for a job as a software architect or director, i have 9 years python develop and 6 years management experience
+- 🤔 I’m looking for a job as a software architect or director, i have 10 years python develop and 7 years management experience
 - 🔭 I’m currently working on business rule engine system(aka. decision engine system) for finance tech company 
 - 📫 How to reach me: wechat@smitechow
 
