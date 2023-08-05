@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤔 I’m looking for a job as a software architect or director, i have 10 years python develop and 7 years management experience
-- 🔭 I’m currently working on business rule engine system(aka. decision engine system) for finance tech company 
+- 🔭 I’m currently working on VLIC auto layout for IC design company 
 - 📫 How to reach me: wechat@smitechow
 
 [![](https://github-readme-stats.vercel.app/api?username=lovemyliwu&count_private=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=lovemyliwu&count_private=true&theme=radical)
