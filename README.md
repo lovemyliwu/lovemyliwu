@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on VLIC auto layout for IC design company 
-- 📫 How to reach me: wechat@smitechow
+- 📫 How to reach me: bluesky @smitechow.com
 
 [![](https://github-readme-stats.vercel.app/api?username=lovemyliwu&count_private=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=lovemyliwu&count_private=true&theme=radical)
